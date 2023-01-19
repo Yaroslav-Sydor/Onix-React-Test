@@ -1,31 +1,54 @@
 .search__container{
-    /*width: 34.635vw;
-    height: 2.083vw;*/
-    /*
-   border: 0.052vw solid rgba(13, 110, 253, 1);
-   */
     width: 46.181vw;
     height: 2.778vw;
     display: flex;
     align-items: center;
-    border: 0.069vw solid rgba(13, 110, 253, 1);
+    outline: 0.139vw solid rgba(13, 110, 253, 1);
+    border-radius: 0.417vw;
 }
 .search__input{
     width: 29.236vw;
-    height: 2.639vw;
-    border-top: 0.069vw solid rgba(13, 110, 253, 1) ;
-    border-left: 0.069vw solid rgba(13, 110, 253, 1) ;
-    border-bottom: 0.069vw solid rgba(13, 110, 253, 1) ;
+    height: 2.778vw;
+    border: none;
+    outline: none;
+    padding-left: 0.694vw;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.111vw;
+    line-height: 1.319vw;
+    color: #1C1C1C;
 }
+.search__input::placeholder{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.111vw;
+    line-height: 1.319vw;
+    color: #8B96A5;
+}
+
 .search__select{
     width: 10.069vw;
-    height: 2.639vw;
-    border: 0.069vw solid rgba(13, 110, 253, 1) ;
+    height: 2.778vw;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    outline: none;
+    border-left: 0.069vw solid rgba(13, 110, 253, 1) ;
+}
+.search__options{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.111vw;
+    line-height: 1.319vw;
+    color: #1C1C1C;
 }
 .search__button{
     width: 6.944vw;
-    height: 2.639vw;
-    border:  0.069vw solid rgba(13, 110, 253, 1)  ;
+    height: 2.778vw;
+    border: none;
     background-color: rgba(13, 110, 253, 1);
     color: rgba(255, 255, 255, 1);
     font-family: 'Inter';
@@ -34,5 +57,11 @@
     font-size: 1.111vw;
     line-height: 1.319vw;
     text-align: center;
-
+    border-top-right-radius: 0.5vw;
+    border-bottom-right-radius: 0.5vw;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.search__button:hover{
+    opacity: 0.7;
 }

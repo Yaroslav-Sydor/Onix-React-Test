@@ -1,0 +1,31 @@
+.suppliers__container {
+    width: 100%;
+    height: 9.583vw;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.suppliers__title__container {
+    width: 100%;
+    height: 2.222vw;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.suppliers__title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.667vw;
+    line-height: 2.222vw;
+    letter-spacing: -0.014vw;
+    color: #1C1C1C;
+    margin: 0;
+}
+.country__container{
+    width: 100%;
+    height: 5.694vw;
+}

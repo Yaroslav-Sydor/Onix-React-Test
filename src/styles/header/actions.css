@@ -1,14 +1,9 @@
 .actions__container{
-    /*width: 11.875vw;
-    height: 2.240vw;*/
     width: 15.833vw;
     height: 2.986vw;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    /*
-    margin-right: 6.875vw;
-    */
     margin-right: 9.167vw;
 }
 .container__img{
@@ -21,8 +16,6 @@
 
 }
 .img{
-    /*width: 1.250vw;
-    height: 1.250vw;*/
     width: 1.667vw;
     height: 1.667vw;
 }
@@ -30,8 +23,6 @@
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    /*font-size: 0.625vw;
-    line-height: 0.781vw;*/
     font-size: 0.833vw;
     line-height: 1.042vw;
     text-align: center;
