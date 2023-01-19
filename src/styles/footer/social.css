@@ -1,0 +1,28 @@
+.social__container{
+    width: 19.167vw;
+    height: 10.903vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.social__logo__container{
+    width: 10.417vw;
+    height: 3.194vw;
+}
+.social__logo__container__img{
+    width: 100%;
+    height: 100%;
+}
+.social__text__container{
+    width: 100%;
+    height: 3.333vw;
+}
+.social__text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.111vw;
+    line-height: 1.667vw;
+    color: #505050;
+}

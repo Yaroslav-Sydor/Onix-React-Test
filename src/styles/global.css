@@ -22,3 +22,6 @@ code {
   overflow: hidden;
   margin: 0 auto;
 }
+p{
+  margin: 0;
+}
