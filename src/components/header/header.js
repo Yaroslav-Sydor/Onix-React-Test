@@ -1,7 +1,7 @@
 import '../../styles/header/header.css';
 import logo from '../../assets/img/logo.svg'
-import Actions from "./actions";
-import Search from "./search";
+import Actions from "./components/actions";
+import Search from "./components/search";
 
 
 function Header() {

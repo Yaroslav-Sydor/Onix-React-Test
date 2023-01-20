@@ -1,4 +1,4 @@
-import '../../styles/header/navigation.css'
+import '../../../styles/header/navigation.css'
 
 
 

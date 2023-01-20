@@ -1,3 +1,4 @@
+
 .actions__container{
     width: 15.833vw;
     height: 2.986vw;
@@ -6,7 +7,7 @@
     align-items: flex-start;
     margin-right: 9.167vw;
 }
-.container__img{
+.actions__container__img{
     display: flex;
     align-items: center;
     justify-content: space-between;

@@ -1,4 +1,4 @@
-import '../../styles/footer/subscribe.css'
+import '../../../styles/footer/subscribe.css'
 
 
 

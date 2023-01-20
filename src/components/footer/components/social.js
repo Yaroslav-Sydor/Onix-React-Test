@@ -1,5 +1,6 @@
-import '../../styles/footer/social.css'
-import logo from "../../assets/img/logo.svg";
+import '../../../styles/footer/social.css'
+import logo from "../../../assets/img/logo.svg";
+import Networks from "./networks";
 
 
 
@@ -12,6 +13,7 @@ function Social() {
             <div className={'social__text__container'}>
                 <p className={'social__text'}>Best information about the company gies here but now lorem ipsum is </p>
             </div>
+            <Networks/>
 
         </div>
 

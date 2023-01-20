@@ -1,7 +1,7 @@
 import '../../styles/footer/footer.css'
-import Subscribe from "./subscribe";
-import Basic from "./basic";
-import Ecommerce from "./ecommerce";
+import Subscribe from "./components/subscribe";
+import Basic from "./components/basic";
+import Ecommerce from "./components/ecommerce";
 
 
 function Footer() {

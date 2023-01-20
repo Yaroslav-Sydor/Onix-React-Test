@@ -1,4 +1,4 @@
-import '../../styles/footer/ecommerce.css'
+import '../../../styles/footer/ecommerce.css'
 
 
 

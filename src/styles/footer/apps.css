@@ -1,0 +1,30 @@
+.apps__container{
+    width: 8.542vw;
+    height: 8.958vw;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.apps__text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.111vw;
+    line-height: 1.528vw;
+    color: #1C1C1C;
+    margin-bottom: 1.042vw;
+}
+
+
+.apps__container__img{
+    width: 8.542vw;
+    height: 6.389vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.apps__img{
+    width: 8.542vw;
+    height: 2.917vw;
+}

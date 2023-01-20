@@ -1,4 +1,4 @@
-import '../../styles/header/search.css'
+import '../../../styles/header/search.css'
 
 
 
