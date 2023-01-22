@@ -1,3 +1,5 @@
+import React from "react";
+import {useDispatch, useSelector} from 'react';
 import '../../styles/header/header.css';
 import logo from '../../assets/img/logo.svg'
 import Actions from "./components/actions";
