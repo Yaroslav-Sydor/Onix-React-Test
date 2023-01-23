@@ -1,0 +1,27 @@
+.inquire__form__container{
+    width: 34.097vw;
+    height: 24.028vw;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-right: 2.153vw;
+    padding-left: 1.389vw;
+    background: #FFFFFF;
+    border-radius: 0.417vw;
+
+    box-shadow: 0 0.069vw 0.139vw rgba(56, 56, 56, 0.25);
+
+}
+.inquire__form__wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.inquire__form__title{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.389vw;
+    letter-spacing: -0.014vw;
+    color: #1C1C1C;
+}

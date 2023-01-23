@@ -2,5 +2,31 @@
     width: 100%;
     height: 13.194vw;
     background: #EFF2F4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 
 }
+.subscribe__wrapper{
+    width: 27.222vw;
+    height: 2.778vw;
+}
+.subscribe__title{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.389vw;
+    text-align: center;
+    color: #1C1C1C;
+}
+.subscribe__text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.111vw;
+    text-align: center;
+    color: #606060;
+
+}
+

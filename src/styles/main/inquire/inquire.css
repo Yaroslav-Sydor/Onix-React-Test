@@ -1,0 +1,43 @@
+.inquire__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    height: 29.167vw;
+    background: gray;
+    border-radius: 0.417vw;
+    /*
+    background-image: url("../src/assets/img/inquire__background.png") ;
+    */
+    background-size: cover;
+   /* background-repeat:no-repeat;*/
+
+
+}
+.inquire__text__wrapper{
+
+
+}
+.inquire__title{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2.222vw;
+    line-height: 2.708vw;
+    letter-spacing: -0.014vw;
+
+    color: #FFFFFF;
+}
+.inquire__text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.111vw;
+    line-height: 1.667vw;
+    letter-spacing: -0.014vw;
+    color: #FFFFFF;
+
+}
+inquire__form__wrapper{
+
+}

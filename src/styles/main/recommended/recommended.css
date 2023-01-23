@@ -23,7 +23,10 @@
 }
 .recommended__wrapper{
     width: 100%;
-    height: 46.556vw;
+    height: 100%;
+    /*
+    height: 44.556vw;
+    */
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(2, 1fr);
