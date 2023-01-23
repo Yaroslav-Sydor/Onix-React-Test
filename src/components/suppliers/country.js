@@ -1,4 +1,4 @@
-import '../../styles/suppliers/country.css'
+import '../../styles/main/suppliers/country.css'
 import emirates from '../../assets/img/supplies/emirates.png'
 
 

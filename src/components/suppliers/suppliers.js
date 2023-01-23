@@ -1,4 +1,4 @@
-import '../../styles/suppliers/suppliers.css'
+import '../../styles/main/suppliers/suppliers.css'
 import Country from "./country";
 
 

@@ -1,0 +1,33 @@
+.recommended__item__container{
+    width: 15.278vw;
+    height: 21.528vw;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.recommended__img__wrapper{
+    width: 100%;
+    height: 14.514vw;
+    /*
+    padding: 0.625vw 0.694vw 0 0.694vw;
+    */
+}
+.recommended__information__wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 100%;
+    height: 7.639vw;
+    background-color: #8B96A5;
+}
+.recommended__img{
+    width: 100%;
+    height: 100%;
+    /*
+    padding: 0.625vw 0.694vw 0 0.694vw;
+    */
+
+
+}
