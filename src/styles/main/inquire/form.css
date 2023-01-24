@@ -13,6 +13,10 @@
     box-shadow: 0 0.069vw 0.139vw rgba(56, 56, 56, 0.25);
 
 }
+.inquire__form{
+    display: flex;
+    flex-direction: column;
+}
 .inquire__form__wrapper{
     display: flex;
     justify-content: space-between;

@@ -1,6 +1,5 @@
 import '../../../styles/main/inquire/inquire.css';
-import Form from "./form";
-
+import FormInquire from "./formInquire";
 function Inquire() {
     return (
         <div className="inquire__container">
@@ -11,7 +10,7 @@ function Inquire() {
                     </p>
             </div>
             <div className="inquire__form__wrapper">
-                <Form/>
+                <FormInquire/>
             </div>
         </div>
     );
