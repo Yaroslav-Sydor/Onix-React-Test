@@ -3,4 +3,8 @@
     height: 4.722vw;
     background: #EFF2F4;
     margin-bottom: 0.347vw;
+    display: flex;
+    justify-content: space-between;
+    /*padding-right: 9.444vw;
+    padding-left: 8.889vw;*/
 }

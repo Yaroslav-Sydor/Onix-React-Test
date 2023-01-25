@@ -3,3 +3,9 @@
     width: 12.431vw;
     height: 100%;
 }
+.offer__item__information{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
