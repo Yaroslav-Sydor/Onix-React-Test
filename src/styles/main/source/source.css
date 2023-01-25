@@ -1,21 +1,36 @@
 .source__container{
     width: 100%;
     height: 17.847vw;
-    background: #8B96A5;
+    background: #FFFFFF;
     display: flex;
-    border-radius: 0.417vw;
+    border-radius:  0.417vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
 
 }
 .source__title__container{
     width: 17.847vw;
     height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background: #505050;
+    border-top-left-radius: 0.417vw;
+    border-bottom-left-radius: 0.417vw;
+
+
+
 }
 .source__grid__container{
-    width: 100%;
-    height: 100%;
+    width:100%;
+    height: calc(100% - 0.138vw) ;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(2, 1fr);
     grid-column-gap: 0;
     grid-row-gap: 0;
+
 }

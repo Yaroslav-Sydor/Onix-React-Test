@@ -1,0 +1,21 @@
+.offer__date__container{
+    width: 19.514vw;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.offer__date__title{
+
+}
+.offer__date__subtitle{
+
+}
+.offer__date__wrapper{
+    display: flex;
+    justify-content: space-between;
+
+}
+.offer__date__counter{
+
+}
