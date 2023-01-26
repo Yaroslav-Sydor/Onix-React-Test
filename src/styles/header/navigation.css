@@ -2,8 +2,8 @@
     width: 100%;
     height: 3.889vw;
     background: #FFFFFF;
-    border: 0.069vw solid #E0E0E0;
-    position: fixed;
+    border-bottom: 0.069vw solid #E0E0E0;
+    position: absolute;
     top: 5.972vw;
     left: 0;
     z-index: 1;

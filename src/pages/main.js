@@ -7,11 +7,13 @@ import Recommended from "../components/main/recommended/recommended";
 import Inquire from "../components/main/inquiry/inquire";
 import Source from "../components/main/source/source";
 import Offer from "../components/main/offer/offer";
+import Buner from "../components/main/buner/buner";
 
 function Main() {
   return (
     <div className="App">
       <div className={"container"}>
+          <Buner/>
           <Offer/>
           <Source/>
           <Source/>
